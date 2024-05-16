@@ -1,8 +1,8 @@
-For Login
-E-mail : admin@gmail.com
-Password : 123456
-
-For Database
-File In Floder : database_file/game_cnt.sql
-You Can Import File .sql On Your PHPMyAdmin
-
+For Login<br>
+E-mail : admin@gmail.com<br>
+Password : 123456<br>
+<br>
+For Database<br>
+File In Floder : database_file/game_cnt.sql<br>
+You Can Import File .sql On Your PHPMyAdmin<br>
+<br>
