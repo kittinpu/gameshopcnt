@@ -8,6 +8,7 @@ You Can Import File .sql On Your PHPMyAdmin<br>
 <br>
 You Can Login By Customer In Register Page<br>
 <br>
-
+<img src"assets/testimg/admin.png">
+<br>
 
 
